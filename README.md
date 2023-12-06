@@ -1,7 +1,7 @@
 # onlinedoc
 How to run:
-Open your XAMPP Control Panel and start Apache and MySQL.
-Extract the downloaded source code zip file.
+1. Open your XAMPP Control Panel and start Apache and MySQL.
+2. Extract the downloaded source code zip file.
 Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming edoc.
